@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "be.tweedehands.m",
+    "sha256_cert_fingerprints":
+    ["2E:8B:51:00:5F:B0:E0:75:16:7B:63:17:6E:12:C9:CD:7B:9B:E1:B4:88:58:C5:55:77:4B:C9:B2:A6:DD:17:98"]
+  }
+}]
